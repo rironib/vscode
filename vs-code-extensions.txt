@@ -10,6 +10,7 @@ ES Lint - Dirk Baeumer
 Live Server - ritwik dey
 Material Theme Icons - Equinusocio
 Path Autocomplete - Mihai Vilcu
+PHP Intelephense - Ben Mewburn
 Prettier - Code formatter - Esben Petersen
 SynthWave '84 - Robb Owen
 Turbo Console Log - ChakrounAnas
