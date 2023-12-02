@@ -2,7 +2,7 @@
   "files.autoSave": "onFocusChange",
   // editor
   "editor.fontSize": 16,
-  "editor.fontFamily": "Jetbrains Mono, Ubuntu",
+  "editor.fontFamily": "Jetbrains Mono, Fira Code",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
