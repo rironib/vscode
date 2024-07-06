@@ -1,6 +1,8 @@
 <!-- PROJECT LOGO -->
 
-<p align="center"><img src="img/3062426.png" alt="Logo" width="80" height="80"></p>
+<p align="center">
+<img src="img/ronib.png" alt="RONiB" width="80" height="80">
+</p>
 
 <h3 align="center">My Visual Studio Code Settings & Extensions</h3>
 
@@ -10,13 +12,17 @@
 
 You can copy the json from settings.json file and paste it into your VS Code settings.json file. Also you will find all the plugins that I use in VSCode.
 
+### Extensions
+
+Copy extensions folder & paste into C:\Users\Username\.vscode folder
+
 <!-- CONTACT -->
 
 ## Contact
 
-Website: - [https://rironib.com](https://rironib.com)
+Website: - [https://dev-ronib.web.app/](https://dev-ronib.web.app/)
 
-Email: - [support@rironib.com](mailto:support@rironib.com)
+Contact: - [https://dev-ronib.web.app/contact](https://dev-ronib.web.app/contact)
 
 <!-- Social Links -->
 

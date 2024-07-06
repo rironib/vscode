@@ -1,0 +1,34 @@
+{
+	"name": "better-reactjs-code-snippet",
+	"displayName": "Better ReactJS Code Snippet",
+	"description": "This extension helps you to write ReactJs 10x faster.",
+	"version": "1.0.0",
+	"publisher": "Sharafdin",
+	"icon": "icon.jpg",
+	"repository": "https://github.com/sharafdin/better-react-js-code-snippet-extension",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "dfbc563c-13e4-4568-99ea-4755b606c2bc",
+		"publisherId": "4eedb55d-68ac-42f4-afa3-64f89254dfe9",
+		"publisherDisplayName": "Sharafdin",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1710480524250,
+		"pinned": false
+	}
+}

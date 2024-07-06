@@ -41,7 +41,7 @@
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
-  "workbench.colorTheme": "Andromeda Colorizer",
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
   "workbench.iconTheme": "vscode-icons",
   // terminal customization
   "workbench.colorCustomizations": {
