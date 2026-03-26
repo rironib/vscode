@@ -1,5 +1,7 @@
 {
-  "files.autoSave": "onFocusChange",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.trimTrailingWhitespace": true,
   // editor
   "editor.fontSize": 16,
   "editor.fontFamily": "Jetbrains Mono, Fira Code",
@@ -24,25 +26,17 @@
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-  },
   "[javascriptreact]": {
     "editor.formatOnSave": false,
     "editor.defaultFormatter": null
   },
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll.tslint": true,
-    "source.organizeImports": true
-  },
-  "eslint.alwaysShowStatus": true,
+
   //terminal
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
   "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
-  "workbench.iconTheme": "vscode-icons",
+
   // terminal customization
   "workbench.colorCustomizations": {
     "terminal.background": "#1D2021",
@@ -65,5 +59,6 @@
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B"
-  }
+  },
+  "workbench.preferredDarkColorTheme": "Learn with Sumit - Peace of the eye"
 }

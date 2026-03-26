@@ -6,25 +6,28 @@
 
 <h3 align="center">My Visual Studio Code Settings & Extensions</h3>
 
-<!-- Insructions -->
+<!-- Instructions -->
 
 ## Instructions
 
-You can copy the json from settings.json file and paste it into your VS Code settings.json file. Also you will find all the plugins that I use in VSCode.
+This repository contains my VS Code configuration and extensions. Use the files in this folder to quickly replicate the setup on any machine.
+
+1. Copy the contents of `settings.json` into your VS Code `settings.json`. In VS Code, open Command Palette (Ctrl+Shift+P / Cmd+Shift+P), run "Preferences: Open Settings (JSON)", then paste.
+2. Install extensions from the `extensions` folder or use the list below.
 
 ### Extensions
 
-Copy extensions folder & paste into C:\Users\Username\.vscode folder
-
-<!-- CONTACT -->
+- Windows: copy `extensions` folder to `%USERPROFILE%\.vscode\extensions`.
+- macOS/Linux: copy `extensions` folder to `$HOME/.vscode/extensions`.
+- Or use `code --install-extension <extension-id>` for each extension.
 
 ## Contact
 
-Website: - [https://dev-ronib.web.app/](https://dev-ronib.web.app/)
+Website: [https://dev-ronib.web.app/](https://rironib.vercel.app/)
 
-Contact: - [https://dev-ronib.web.app/contact](https://dev-ronib.web.app/contact)
+Contact: [https://dev-ronib.web.app/contact](https://dev-ronib.web.app/contact)
 
-<!-- Social Links -->
+## Social
 
 [![Youtube][youtube-shield]][youtube-url]
 [![Facebook][facebook-shield]][facebook-url]
